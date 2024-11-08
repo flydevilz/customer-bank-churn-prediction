@@ -1,5 +1,3 @@
-# Laporan Proyek Machine Learning - Angeline Lydia Kojansow
-
 ## Project Domain
 
 In today's digital era, the banking industry faces significant challenges in retaining their customers. Customer churn, or the loss of customers, is a critical issue that can significantly impact a bank's profitability. When customers leave a bank and switch to competitors, the bank not only loses revenue from those customers but also incurs additional costs to attract new ones. Therefore, understanding and addressing customer churn is a crucial step to maintain financial stability and long-term success for banks.
